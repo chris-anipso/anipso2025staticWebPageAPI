@@ -1,1 +1,2 @@
 
+print "vanilla static webpage"
